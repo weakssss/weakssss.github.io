@@ -7499,7 +7499,7 @@ ul.digitabs li.selected {
 	border-top: 7px solid #c4dbca;
 }
 .tab-testimonials {
-	background-image: url('/wedding-testimonials.jpg');
+	background-image: url('images/wedding-testimonials.jpg');
 	background-size: 100%;
 	min-height: 100px;
 }
@@ -8574,7 +8574,7 @@ ul.sitemap li {width: 50%; float: left;}
 		/*float: none;*/
 	}
 	.navbar .nav > li > a {
-		margin: 0px 2px 0px 2px;
+		margin: 0px 1px 0px 1.5px;
 		border-top: 6px solid #efefef;
 		-webkit-border-radius: 0px;
 		-moz-border-radius: 0px;
