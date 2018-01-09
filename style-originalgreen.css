@@ -7327,7 +7327,6 @@ body {
 }
 .container.full, .container.full .span12 {
 	width:100%;
-	margin-left: 0px;
 }
 .delimiter { clear: both; }
 #headergreen {
@@ -7359,8 +7358,8 @@ body {
 	padding: 20px 10px 20px 10px;
 	/*z-index: 500;
 	float: left;*/
-	background: rgba(173, 199, 67, 1);
-	/*background: #59ab2f;*/
+	/*background: rgba(173, 199, 67, 1);*/
+	background: #59ab2f;
 }
 .icon-home.green {
 	color: #6da77c;
@@ -7729,8 +7728,8 @@ ul.menu.pdf li a:hover {
 /* standard h4 sidebar elements - subhead and 'what makes us different' list */
 
 .span3.green {
-	background: rgba(173, 199, 67, 1);
-	/*background: #59ab2f;*/
+	/*background: rgba(173, 199, 67, 1);*/
+	background: #59ab2f;
 }
 .left_sidebar {
     color: #ffffff;
@@ -8415,7 +8414,6 @@ ul.sitemap li {width: 50%; float: left;}
 	}
 	.container.full .span12 {
 		width: 100%;
-		margin-left: 0px;
 	}
 	.span3 {
 		width: 200px;
